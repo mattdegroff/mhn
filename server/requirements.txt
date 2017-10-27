@@ -15,7 +15,7 @@ requests==2.4.3
 xmltodict==0.9.0
 uWSGI==2.0.14
 pymongo==2.7.2
-git+https://github.com/RedolentSun/hpfeeds-logger.git
+hpfeeds-threatstream==1.0
 pygal==1.7.0
 hpfeeds-logger==0.0.5a
 GeoIP==1.3.2
