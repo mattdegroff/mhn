@@ -17,7 +17,7 @@ following intrusion detection software:
 
 [Conpot](http://conpot.org/)
 
-[Dionaea](http://edgis-security.org/honeypot/dionaea/)
+[Dionaea](https://www.edgis-security.org/single-post/dionaea-malware-honeypot)
 
 [Suricata](http://suricata-ids.org/)
 
